@@ -1,4 +1,4 @@
-# 📘 Modelo de Hull & White: simulacón de rendimientos de CETES
+# 📘 Modelo de Hull & White: Simulación de rendimientos de CETES
 
 Este archivo contiene una guía teórico-práctica sobre el **modelo de Hull & White** aplicado a la valoración de tasas de interés y derivados financieros.  
 Incluye fundamentos matemáticos, simulaciones en Python y una implementación con datos reales de **CETES (BANXICO)**.
