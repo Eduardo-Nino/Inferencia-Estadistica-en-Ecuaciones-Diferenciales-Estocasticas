@@ -30,20 +30,6 @@ donde:
 El modelo de Hull & White es muy popular por su flexibilidad y capacidad de calibrarse a los datos del mercado, lo que lo convierte en una herramienta útil para analistas financieros y traders de renta fija, en este caso será usado para modelar las tasas de rendimientos de los Certificados de la Tesorería (CETES) con datos obtenidos de BANXICO. En el presente trabajo se abordan:
 ---
 
-## 📂 Contenido
-
-- `documentacion/` → PDF con la guía didáctica completa.
-- `notebooks/` → Simulaciones en Jupyter (movimiento browniano, Hull-White, sensibilidad de parámetros).
-- `src/` → Código en Python modularizado:
-  - `hull_white.py` → Implementación del modelo.
-  - `simulation.py` → Simulaciones de trayectorias.
-  - `inference.py` → Estimación de parámetros.
-  - `valuation.py` → Valuación de instrumentos.
-- `data/` → Datos de CETES obtenidos de BANXICO.
-- `README.md` → Este archivo.
-
----
-
 ## 📊 Contenido del proyecto
 
 1. **Fundamentos teóricos**
