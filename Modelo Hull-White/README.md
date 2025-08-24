@@ -10,8 +10,10 @@ El modelo de Hull & White es un modelo de tasas de interés de un factor ampliam
 - **Volatilidad estocástica**: Permite modelar la volatilidad de la tasa de interés, facilitando la calibración con los precios de los bonos y opciones sobre tasas de interés.
 - **Ecuación del modelo**: La dinámica de la tasa de interés \(r(t)\) se describe mediante la siguiente ecuación diferencial estocástica:
 
-\centering
-$dr(t) = [\theta(t) - a r(t)] dt + \sigma dW(t)$
+
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?dr(t)%20=%20[\theta(t)%20-%20a%20r(t)]%20dt%20+%20\sigma%20dW(t)" alt="EDE Hull-White">
+</p>
 
 
 donde:
