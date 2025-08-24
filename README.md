@@ -64,8 +64,7 @@ Aplicaciones a problemas reales en:
 
 Se utilizarán los siguientes lenguajes de programación:  
 - **R**  
-- **Python**  
-- **Fortran**  
+- **Python**   
 
 ---
 
