@@ -28,9 +28,6 @@ donde:
 - Gestión de riesgos de tasas de interés en portafolios de inversión.
 
 El modelo de Hull & White es muy popular por su flexibilidad y capacidad de calibrarse a los datos del mercado, lo que lo convierte en una herramienta útil para analistas financieros y traders de renta fija, en este caso será usado para modelar las tasas de rendimientos de los Certificados de la Tesorería (CETES) con datos obtenidos de BANXICO. En el presente trabajo se abordan:
----
-
-## 📊 Contenido del proyecto
 
 1. **Fundamentos teóricos**
    - Movimiento Browniano y procesos estocásticos.
