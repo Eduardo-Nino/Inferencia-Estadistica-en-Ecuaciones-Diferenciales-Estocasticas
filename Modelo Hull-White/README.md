@@ -40,11 +40,11 @@ El modelo de Hull & White es muy popular por su flexibilidad y capacidad de cali
 3. **Simulación en Python**
    - Método de Euler-Maruyama.
    - Análisis de sensibilidad a parámetros.
-   - Caso con \(\theta(t)\) variable en el tiempo.
+   - Caso con $\theta(t)$ variable en el tiempo.
 
 4. **Inferencia estadística**
    - Estimación de parámetros por máxima verosimilitud.
-   - Casos con \(\theta\) constante y \(\theta(t)\) dependiente del tiempo.
+   - Casos con $\theta$ constante y $\theta(t)$ dependiente del tiempo.
 
 5. **Aplicación con datos reales**
    - Valuación de CETES como bonos cupón cero.
