@@ -1,7 +1,6 @@
 # 📘 Modelo de Hull & White: Simulación de rendimientos de CETES
 
-Este archivo contiene una guía teórico-práctica sobre el **modelo de Hull & White** aplicado a la valoración de tasas de interés y derivados financieros.  
-Incluye fundamentos matemáticos, simulaciones en Python y una implementación con datos reales de **CETES (BANXICO)**.
+Este archivo contiene una guía teórico-práctica sobre el **modelo de Hull & White** aplicado a la valoración de tasas de interés y derivados financieros.  Incluye fundamentos matemáticos, simulaciones en Python y una implementación con datos reales de **CETES (BANXICO)**.
 
 El modelo de Hull & White es un modelo de tasas de interés de un factor ampliamente utilizado en finanzas para valorar bonos, derivados de renta fija y otros instrumentos de tasas de interés. Fue desarrollado por John Hull y Alan White en 1990 y se caracteriza por incorporar la media a la que tienden las tasas de interés, lo que le permite capturar la estructura temporal de tasas de forma más flexible.
 
