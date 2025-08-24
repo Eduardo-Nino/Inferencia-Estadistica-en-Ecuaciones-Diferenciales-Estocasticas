@@ -17,10 +17,10 @@ El modelo de Hull & White es un modelo de tasas de interés de un factor ampliam
 
 
 donde:
-- \(a\) es la velocidad de reversión a la media,
-- \(\theta(t)\) es una función que asegura el ajuste a la curva de tasas inicial,
-- \(\sigma\) es la volatilidad de la tasa,
-- \(W(t)\) es un movimiento Browniano estándar.
+- $a$ es la velocidad de reversión a la media,
+- $\theta(t)$ es una función que asegura el ajuste a la curva de tasas inicial,
+- $\sigma\$ es la volatilidad de la tasa,
+- $W(t)$ es un movimiento Browniano estándar.
 
 ## Aplicaciones
 - Valoración de bonos y derivados de renta fija.
