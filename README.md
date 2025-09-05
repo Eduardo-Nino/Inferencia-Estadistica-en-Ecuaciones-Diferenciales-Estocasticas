@@ -1,4 +1,4 @@
-# Inferencia estadística para ecuaciones diferenciales estocásticas (EDE) y aplicaciones
+# Portafolio: Inferencia estadística para ecuaciones diferenciales estocásticas (EDE) y aplicaciones
 
 Este repositorio contiene el proyecto final del curso **Inferencia Estadística en Ecuaciones Diferenciales Estocásticas**, cuyo objetivo es **conocer, analizar y aplicar técnicas de estimación de parámetros en EDE discretamente observadas** mediante métodos de máxima verosimilitud y enfoques bayesianos, en este caso el modelo final a analizar es el de Hull & White, bajo la guía del profesor Fernando Baltazar Larios (UNAM).
 
