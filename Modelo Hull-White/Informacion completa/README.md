@@ -19,7 +19,7 @@ donde:
 
 ## Uso de información completa
 
-En este escenario, todos los puntos de la serie temporal están disponibles para la estimación. Esto permite aplicar métodos de **máxima verosimilitud** sobre diferencias consecutivas de la serie (`r_t+1 - r_t`) para obtener estimadores de:
+En este escenario, todos los puntos de la serie temporal están disponibles para la estimación. Esto permite aplicar métodos de **máxima verosimilitud** sobre diferencias consecutivas de la serie ($r_{t+1} - r_t$) para obtener estimadores de:
 
 - $a$ (velocidad de reversión)
 - $\theta$ (media de reversión)
